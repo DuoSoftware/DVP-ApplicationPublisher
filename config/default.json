@@ -1,14 +1,13 @@
-module.exports = {
+{
 
-    Docker :{
-
-        ip: "104.131.90.110",
-        port:4243
+    "Docker" :{
+        "ip": "104.131.90.110",
+        "port":4243
     },
 
-    Redis : {
-        ip: '192.168.0.68',
-        port: 6379
+    "Redis" : {
+        "ip": "192.168.0.68",
+        "port": 6379
     },
 
     "DB": {
@@ -19,4 +18,4 @@ module.exports = {
         "Host":"127.0.0.1",
         "Database":"dvpdb"
     }
-};
+}

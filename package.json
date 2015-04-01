@@ -1,4 +1,29 @@
 {
-  "name": "application-name",
-  "version": "0.0.1"
+  "name": "DVP-ApplicationPublisher",
+  "version": "0.0.0",
+  "description": "DVP-ApplicationPublisher\r ========================",
+  "main": "ImageRunner.js",
+  "dependencies": {
+    "config": "^1.12.0",
+    "dockerode": "^2.1.1",
+    "dockerode-options": "^0.1.0",
+    "request": "^2.54.0",
+    "dockerode-process": "^0.6.0",
+    "dockerode-promise": "^0.0.1",
+    "tar": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DuoSoftware/DVP-ApplicationPublisher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DuoSoftware/DVP-ApplicationPublisher/issues"
+  },
+  "homepage": "https://github.com/DuoSoftware/DVP-ApplicationPublisher"
 }
